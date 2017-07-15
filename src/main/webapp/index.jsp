@@ -39,7 +39,7 @@
 						<img src="images/filler.PNG">
 					</div>
 					<div class="content">
-						<a class="header">Book</a>
+						<a class="header">Bookzzz</a>
 						<div class="description">Probability of getting heads</div>
 						<br>
 						<button class="ui green fluid button">Browse</button>
