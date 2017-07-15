@@ -1,2 +1,0 @@
-# NXTTECHRepo
-repo for nexttech
