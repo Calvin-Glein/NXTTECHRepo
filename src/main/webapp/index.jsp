@@ -13,6 +13,29 @@
 	integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
 	crossorigin="anonymous"></script>
 	
+	
+	
+	
+	
+	<script src="https://www.gstatic.com/firebasejs/4.1.3/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.1.3/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.1.3/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.1.3/firebase-messaging.js"></script>
+
+<!-- Leave out Storage -->
+<!-- <script src="https://www.gstatic.com/firebasejs/4.1.3/firebase-storage.js"></script> -->
+
+<script>
+  var config = {
+    // ...
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+
+	
+	
     <title>Hello App Engine</title>
   </head>
 
@@ -39,7 +62,7 @@
 						<img src="images/filler.PNG">
 					</div>
 					<div class="content">
-						<a class="header">Bookzzz</a>
+						<a class="header">Bookzzzzzzzz</a>
 						<div class="description">Probability of getting heads</div>
 						<br>
 						<button class="ui green fluid button">Browse</button>
@@ -146,6 +169,20 @@
 
 	<div id="footer-placeholder"></div>
 
+
+<script src="https://www.gstatic.com/firebasejs/4.1.3/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyClMtfVRNRqiQ0fUb1ipzEFfD6m_Q8JTRE",
+    authDomain: "nxttech-teamtation.firebaseapp.com",
+    databaseURL: "https://nxttech-teamtation.firebaseio.com",
+    projectId: "nxttech-teamtation",
+    storageBucket: "nxttech-teamtation.appspot.com",
+    messagingSenderId: "1034042438371"
+  };
+  firebase.initializeApp(config);
+</script>
    
   
     

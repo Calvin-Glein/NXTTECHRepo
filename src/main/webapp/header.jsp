@@ -6,7 +6,7 @@
 	<div class="ui large secondary  pointing menu fixed inverted"
 		style="background-color: green">
 		<div class="ui container">
-			<a href="" class="item">Play</a> <a href=""
+			<a href="CreateRoomServlet" class="item">Play</a> <a href=""
 				class="item">Connect</a> 
 			<a href="" class="item">Invite</a>
 
